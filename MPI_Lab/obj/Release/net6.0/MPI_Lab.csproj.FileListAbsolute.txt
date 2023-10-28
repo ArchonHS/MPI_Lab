@@ -1,0 +1,17 @@
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\bin\Release\net6.0\MPI_Lab.exe
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\bin\Release\net6.0\MPI_Lab.deps.json
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\bin\Release\net6.0\MPI_Lab.runtimeconfig.json
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\bin\Release\net6.0\MPI_Lab.dll
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\bin\Release\net6.0\MPI_Lab.pdb
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\bin\Release\net6.0\MPI.dll
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\MPI_Lab.csproj.AssemblyReference.cache
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\MPI_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\MPI_Lab.AssemblyInfoInputs.cache
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\MPI_Lab.AssemblyInfo.cs
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\MPI_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\MPI_Lab.csproj.CopyComplete
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\MPI_Lab.dll
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\refint\MPI_Lab.dll
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\MPI_Lab.pdb
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\MPI_Lab.genruntimeconfig.cache
+C:\Users\Archon\source\repos\MPI_Lab\MPI_Lab\obj\Release\net6.0\ref\MPI_Lab.dll
